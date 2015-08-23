@@ -1,4 +1,3 @@
-# By Raymond Tang for Coursera: Getting and Cleaning Data (Assignment) 2014 April
 
 run_analysis <- function(){
   # load test data  
